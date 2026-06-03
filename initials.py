@@ -2,7 +2,7 @@
 # Description: Prints my initials MPA in stylized large block letters.
 # Assignment Number: 1
 #
-# Name: Patrick Azuure
+# Name: Patrick Azuure 
 # STUDENT ID: 2425402167
 # Email: 2426402167@live.gctu.edu.gh
 # Grader:Mr.Augustus Buckman.
