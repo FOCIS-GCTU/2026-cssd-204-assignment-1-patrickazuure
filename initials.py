@@ -9,8 +9,6 @@
 #
 # On my honor, Patrick Azuure, this programming assignment is my own work
 # and I have not provided this code to any other student.
-
-
 def main():
     # This function prints the initials MPA in stylized large block letters.
     print()
@@ -26,7 +24,5 @@ def main():
     print("...MM...MM...MM........PP..................AA........AA.....")
     print("...MM...MM...MM...**...PP.............**...AA........AA...**")
     print("...MM...MM...MM...**...PP.............**...AA........AA...**")
-    print()
-
-
+    print() 
     main()
